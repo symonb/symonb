@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I'm Szymon
 
-<!--
-**SB-koperkowypiesek/SB-koperkowypiesek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mechanical engineer and my little obsession are drones. Everything which has the potential to fly is interesting to me. Beside drones, I'm into all kind of mobile robots (involving submarines).
 
-Here are some ideas to get you started:
+#### Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀🛩️ FPV Drones 
+- 🔩 CADs programs
+- 💻 C/Pyhton/HTML/CSS
+- 🧗⛷️ Climbing/Skiing 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=SB-koperkowypiesek&count_private=true" width=40% align=center></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB-koperkowypiesek&layout=compact" width=40% align=right></img>
+
+
+#### More about drones:
+[drone blog](https://symonbielenin.blogspot.com/)
+
+
