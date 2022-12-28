@@ -10,8 +10,8 @@ I'm a mechanical engineer and my little obsession are drones. Everything which h
 - 🧗⛷️ Climbing/Skiing 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SB-koperkowypiesek&count_private=true" width=40% align=center></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB-koperkowypiesek&layout=compact" width=40% align=right></img>
+<img src="https://github-readme-stats.vercel.app/api?username=symonb&count_private=true" width=40% align=center></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=symonb&layout=compact" width=40% align=right></img>
 
 
 #### More about drones:
