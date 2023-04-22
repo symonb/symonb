@@ -6,7 +6,7 @@ I'm a mechanical engineer and my little obsession are drones. Everything which h
 
 - 🚀🛩️ FPV Drones 
 - 🔩 CADs programs
-- 💻 C/Pyhton/HTML/CSS
+- 💻 C/C++ a bit of Pyhton
 - 🧗⛷️ Climbing/Skiing 
 
 
