@@ -1,12 +1,12 @@
 ### Hi there I'm Szymon
 
-I'm a mechanical engineer and my little obsession are drones. Everything which has the potential to fly is interesting to me. Beside drones, I'm into all kind of mobile robots (involving submarines).
+I'm a mechanical engineer and my little obsession are drones. Everything which has the potential to fly is interesting to me. Besides drones, I'm into all kinds of mobile robots (involving submarines).
 
 #### Skills:
 
 - 🚀🛩️ FPV Drones 
 - 🔩 CADs programs
-- 💻 C/C++ a bit of Pyhton
+- 💻 C/C++, Python
 - 🧗⛷️ Climbing/Skiing 
 
 
