@@ -15,6 +15,7 @@ I'm a mechanical engineer and my little obsession are drones. Everything which h
 
 
 #### More about drones:
-[drone blog](https://symonbielenin.blogspot.com/)
+[blog](https://symonb.github.io/)
+[old page drone blog](https://symonbielenin.blogspot.com/)
 
 
